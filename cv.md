@@ -9,11 +9,12 @@
 * __VictoriaSayevich@gmail.com__  
 * VictoriaSayevich@tut.by  
 * +375 (29) 368-47-03
+* telegram: victoria_sayevich
 	
 *Programming skills*:  
 *   Basic knowledge of HTML  
 *   Basic knowledge of CSS  
-*   Basic knowledge of C/C++  
+*   Basic knowledge of C++  
 *   Adobe Photoshop
 *   Adobe Illustrator
 *   Adobe After Effects
